@@ -1,0 +1,16 @@
+order_ref,order_date,store,product,qty,unit_price,customer_email
+ORD-1001,2026-09-01,Pune Central,Wireless Mouse,2,799,amit@mail.com
+ORD-1002,02/09/2026,pune central ,USB-C Cable,3,249,
+ORD-1003,2026-09-03,Mumbai West,Laptop Stand,1,1899,SNEHA@MAIL.COM
+ORD-1004,2026-09-03,Mumbai West,Wireless Mouse,1,799,raj@mail.com
+ORD-1003,2026-09-03,Mumbai West,Laptop Stand,1,1899,SNEHA@MAIL.COM
+ORD-1005,2026-09-05,Delhi North,Mechanical Keyboard,1,3499,tina@mail.com
+ORD-1006,2026-09-07,DELHI NORTH,USB-C Cable,five,249,omar@mail.com
+ORD-1007,2026-09-10,Pune Central,Webcam HD,1,"2,499",amit@mail.com
+ORD-1008,2026-09-12,Delhi North,Wireless Mouse,4,799,
+ORD-1009,15/09/2026,Mumbai West,Mechanical Keyboard,2,3499,lena@mail.com
+ORD-1010,2026-09-18,Pune Central,Laptop Stand,2,1899,kiran@mail.com
+ORD-1011,2026-09-21,Delhi North,Webcam HD,1,2499,tina@mail.com
+ORD-1012,2026-09-25,Mumbai West,USB-C Cable,10,249,office@corp.com
+ORD-1013,2026-09-28,Pune Central,Mechanical Keyboard,1,3499,
+ORD-1014,2026-09-30,Delhi North,Laptop Stand,0,1899,omar@mail.com
