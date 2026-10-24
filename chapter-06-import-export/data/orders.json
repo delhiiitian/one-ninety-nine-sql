@@ -1,0 +1,5 @@
+[
+  {"order_id": 501, "customer": {"name": "Farah", "city": "Lucknow"}, "items": [{"sku": "TEA-01", "qty": 2, "price": 180}, {"sku": "MUG-07", "qty": 1, "price": 350}], "paid": true},
+  {"order_id": 502, "customer": {"name": "Gautam", "city": "Indore"}, "items": [{"sku": "TEA-02", "qty": 5, "price": 120}], "paid": false},
+  {"order_id": 503, "customer": {"name": "Hema", "city": "Lucknow"}, "items": [{"sku": "MUG-07", "qty": 2, "price": 350}, {"sku": "TEA-01", "qty": 1, "price": 180}], "paid": true}
+]

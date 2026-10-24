@@ -1,0 +1,32 @@
+-- Project 3: Monthly Expense Tracker | seed.sql
+INSERT INTO budgets VALUES ('Rent', 18000), ('Groceries', 6000), ('Transport', 2500),
+                           ('Eating out', 3000), ('Bills', 3500), ('Fun', 2000);
+
+INSERT INTO expenses (spent_on, category, description, amount, method) VALUES
+    ('2026-08-01', 'Rent',      'August rent',         18000, 'UPI'),
+    ('2026-08-03', 'Groceries', 'BigBasket order',      2140, 'Card'),
+    ('2026-08-05', 'Transport', 'Metro card top-up',     500, 'UPI'),
+    ('2026-08-09', 'Eating out','Pizza night',          1260, 'Card'),
+    ('2026-08-12', 'Bills',     'Electricity',          1840, 'UPI'),
+    ('2026-08-15', 'Groceries', 'Local market',          980, 'Cash'),
+    ('2026-08-19', 'Fun',       'Movie tickets',         700, 'UPI'),
+    ('2026-08-24', 'Groceries', 'Monthly staples',      2650, 'Card'),
+    ('2026-08-28', 'Transport', 'Cab to airport',        890, 'Card'),
+    ('2026-09-01', 'Rent',      'September rent',      18000, 'UPI'),
+    ('2026-09-02', 'Groceries', 'BigBasket order',      2380, 'Card'),
+    ('2026-09-06', 'Eating out','Birthday dinner',      2950, 'Card'),
+    ('2026-09-07', 'Eating out','Chai and samosa',        80, 'Cash'),
+    ('2026-09-10', 'Bills',     'Electricity',          2210, 'UPI'),
+    ('2026-09-10', 'Bills',     'Internet',              799, 'UPI'),
+    ('2026-09-14', 'Transport', 'Metro card top-up',     500, 'UPI'),
+    ('2026-09-18', 'Fun',       'Concert',              2500, 'Card'),
+    ('2026-09-21', 'Groceries', 'Local market',         1120, 'Cash'),
+    ('2026-09-26', 'Groceries', 'Festival shopping',    3400, 'Card'),
+    ('2026-09-29', 'Transport', 'Train tickets',        1650, 'UPI'),
+    ('2026-10-01', 'Rent',      'October rent',        18000, 'UPI'),
+    ('2026-10-04', 'Groceries', 'BigBasket order',      1990, 'Card'),
+    ('2026-10-08', 'Bills',     'Electricity',          1650, 'UPI'),
+    ('2026-10-08', 'Bills',     'Internet',              799, 'UPI'),
+    ('2026-10-11', 'Eating out','Lunch with team',       640, 'UPI'),
+    ('2026-10-15', 'Transport', 'Metro card top-up',     500, 'UPI'),
+    ('2026-10-20', 'Groceries', 'Local market',          860, 'Cash');
