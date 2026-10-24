@@ -1,0 +1,5 @@
+# Files created when you run the Chapter 6 examples
+exported-*
+# Your own database files
+*.db
+__pycache__/
